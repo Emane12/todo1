@@ -15,8 +15,7 @@ JS, Express JS, NodeJS, MongoDB
 
 
 
-
-file:///Users/imane/Desktop/Screen%20Shot%202022-08-30%20at%201.00.52%20PM.png
+<img width="1239" alt="Screen Shot 2022-08-30 at 1 00 52 PM" src="https://user-images.githubusercontent.com/96458509/187497579-77aaa999-0199-4f9b-b460-a5024cb88f0a.png">
 
 
 
