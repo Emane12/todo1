@@ -26,7 +26,6 @@ file:///Users/imane/Desktop/Screen%20Shot%202022-08-30%20at%201.00.52%20PM.png
 
 
 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
