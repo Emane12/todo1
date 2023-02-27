@@ -1,19 +1,10 @@
 # Description:
-To-Do-List is an app that makes the user keep track t\of his/her daily activities.
+To-Do-List is an app that makes the user keep track of his/her daily activities.
 The user is able to add and store new tasks to his list so he can access them later, as well as removing them once finish.
 
 It is a full stack (MERN) project with an API
 
 
-# Deployed LInks:
-Netlify: https://dazzling-basbousa-d3d90a.netlify.app
-
-
-Heroku: https://my-todo-listt.herokuapp.com
-
-
-# API
-http://localhost:3001/todos 
 
 
 
@@ -36,6 +27,17 @@ JS, Express JS, NodeJS, MongoDB
 
 
 
+
+
+# Deployed LInks:
+Netlify: https://dazzling-basbousa-d3d90a.netlify.app
+
+
+Heroku: https://my-todo-listt.herokuapp.com
+
+
+# API
+http://localhost:3001/todos 
 
 
 
